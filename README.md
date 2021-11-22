@@ -26,7 +26,7 @@
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
   </p>
   
-![Junior Coding.](https://media1.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e478dd3jvmav907qzz7mgl1nqfbdhfewqfaauh2fwfh&rid=giphy.gif&ct=g)
+![Junior Coding.](https://github.com/EugeneSunrise/EugeneSunrise/blob/main/monkereal.gif?raw=true)
 </td><td valign="top" width="50%">
 <div align="center" >
 <div>
