@@ -27,6 +27,13 @@
   </p>
   
 ![Junior Coding.](https://github.com/EugeneSunrise/EugeneSunrise/blob/main/monkereal.gif?raw=true)
+- !!! ROAD MAP 2022-2023 !!!
+- WINTER 2022 > DARKLESS(RAT) AAA-Project
+- WINTER 2022 - JANUARY > 3-4 AA-Projects
+- EARLY 2023 - ANONYMOUS BROWSER AAA-Project
+- WINTER - SPRING 2023 > 1-2 AA-Projects
+- P.S. GUYS! TOO MUCH WORK! SORRY FOR DELAY!
+- MIXSOFT & CHANGERS - UPDATE END OF SUMMER
 </td><td valign="top" width="50%">
 <div align="center" >
 <div>
