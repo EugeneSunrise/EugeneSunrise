@@ -27,9 +27,9 @@
   </p>
   
 ![Junior Coding.](https://github.com/EugeneSunrise/EugeneSunrise/blob/main/monkereal.gif?raw=true)
-- !!! ROAD MAP 2022-2023 !!!
-- EARLY 2023 - ANONYMOUS BROWSER AAA-Project
-- EARLY 2023 - Darkless beta
+- !!! ROAD MAP 2023 !!!
+- Invise. Anonymous browser
+- Darkless beta
 </td><td valign="top" width="50%">
 <div align="center" >
 <div>
