@@ -11,7 +11,7 @@
 #### I am .NET developer since 2018  
 
   
-#### Telegram: sunrisevvs
+#### Telegram: sunrjze
   
   
 #### Languages and Tools
