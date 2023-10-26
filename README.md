@@ -43,7 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EugeneSunrise&repo=MixSoft&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
   </a>
     <br/><br/>
-<a href="[https://github.com/EugeneSunrise/CryptHWID](https://github.com/EugeneSunrise/reWASD)">
+<a href="https://github.com/EugeneSunrise/reWASD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EugeneSunrise&repo=reWASD&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
 </a>
    <br/><br/>
