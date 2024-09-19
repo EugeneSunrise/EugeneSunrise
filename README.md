@@ -1,22 +1,18 @@
-<table align="center" cellspacing="0" cellpadding="0"  style="border-collapse:collapse;">
- <tr><td valign="top" width="50%">
-   <a href="https://github.com/EugeneSunrise">
-    <br/><br/>  <img align="right" src="https://avatars.githubusercontent.com/u/56397706" width="150"/>
-  </a>
+<div align="center">
   
-#### Hi there 
- 
-   
+```python
+world.run_until_complete()
+```
   
-#### I am Software Engineer since 2018  
+</div>
 
-  
-#### Telegram: sunrjze
-  
-  
-#### Languages and Tools
-  <br/>
-  <p align="center">
+ 
+<p align="center"> Hi There 👋 </p>
+<p align="center"> Software Engineer since 2018 </p>
+<p align="center"> Telegram: sunrjze </p>
+<p align="center"> Languages and Tools: </p>
+
+ <p align="center">
     <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
     <a href="https://www.swift.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="csharp" width="40" height="40"/></a>    
     <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -26,34 +22,15 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
   </p>
-  
-![Junior Coding.](https://github.com/EugeneSunrise/EugeneSunrise/blob/main/monkereal.gif?raw=true)
-</td><td valign="top" width="50%">
-<div align="center" >
-<div>
- <br/><br/>
- <a href="https://github.com/EugeneSunrise/Darkless">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EugeneSunrise&repo=Darkless&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
-  </a>
-    <br/><br/>
-<a href="https://github.com/EugeneSunrise/MixSoft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EugeneSunrise&repo=MixSoft&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
-  </a>
-    <br/><br/>
-<a href="https://github.com/EugeneSunrise/reWASD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EugeneSunrise&repo=reWASD&theme=dark&border=168CC7FF&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF" />
-</a>
-   <br/><br/>
-<!--![GitHub metrics](https://metrics.lecoq.io/EugeneSunrise)-->
-<tr><td valign="top" width="50%">
 
-   
-<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EugeneSunrise&theme=material-palenight&background=00000000&border=00000000)-->   
-   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EugeneSunrise&background=DD272700&sideNums=DD2727&currStreakNum=8C59CF8A&border=DD272700&ring=57C79B&sideLabels=98C751&dates=168CC7)](https://git.io/streak-stats)
-</td><td valign="bottom" width="50%">
-      
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneSunrise&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border=00000000&hide_border=true&bg_color=00000000&icon_color=5AB8DDFF&title_color=168CC7FF")  
- </td></tr></table>  
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/EugeneSunrise/EugeneSunrise/609a2b844fc37780d0cdc65f0da8d701e6c99ae3/github-metrics.svg" alt="My Metrics">
+  
+</div>
  
- 
+---
+<div align="center">
+<img src="https://readme-stare.vercel.app/api?username=EugeneSunrise&include_all_commits=true&show_icons=true" alt="My Grade" width="40%">
+<img src="https://github.com/EugeneSunrise/EugeneSunrise/blob/main/monkereal.gif?raw=true" alt="My Count" width="40%">    
+</div>
