@@ -25,7 +25,7 @@ world.run_until_complete()
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/EugeneSunrise/EugeneSunrise/c323ec7fb4f25deef361cb69767c5e305fe6423b/github-metrics.svg" alt="My Metrics">
+<img src="https://eugenesunrise.github.io/EugeneSunrise/github-metrics.svg" alt="My Metrics">
   
 </div>
  
